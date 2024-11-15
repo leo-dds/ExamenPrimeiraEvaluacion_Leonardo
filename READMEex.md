@@ -80,3 +80,7 @@ En el se guardan otros alias de otros dominios al que te redirigen los subdomini
 Comproba que todo funciona có comando "dig"
 Mostra nos logs que o servicio funciona ben usando a saída da terminal ó levantar o compose ou có comando "docker logs [nomeContenedorOuID]"
 (o apartado 9 realízase na máquina virtual)
+
+No fui capaz de completar el aprtedo.
+Los coamdos para comprobar el el logs seria **docker logs dns_server**
+Para comprobar el dig un ejemplo podria ser **dig @127.0.0.1 -p 53 google.com**
