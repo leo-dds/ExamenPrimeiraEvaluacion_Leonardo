@@ -1,9 +1,6 @@
 # ExamenPrimeiraEvaluacion_Leonardo
 
 
-# ExamenPrimeiraEvaluacion_Leonardo
-
-
 Crea un repositorio para contestar todo o exame.
 Este repositorio ten que conter tódo-los ficheiros necesarios para xustifica-la túas respostas.
 
